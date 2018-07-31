@@ -1,0 +1,142 @@
+
+
+.smart-style-2.minified #ribbon_menu nav>ul>li>a {
+    padding-top: 5px; 
+    padding-bottom: 16px;
+}
+
+ .smart-style-2 #ribbon_menu nav>ul>li>a {
+    padding-top: 5px; 
+    padding-bottom: 16px;
+}
+
+
+#menu ul>li {
+    border-bottom: none;
+    border-top: none;
+}
+
+#logo img {
+    width: 100px;
+    height: auto;
+    padding-left: 3px;
+}
+
+.page-title {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    display: block;
+    color: #666666;
+    font-weight: 300;
+    border-bottom: 1px solid #f7f7f7;
+}
+
+#ribbon_menu {
+	min-height: 40px;
+	background: #ffffff;
+	padding: 1px 0px;
+	position: relative;
+	    border-bottom: 1px solid #D8D4D4;
+/*	 border-bottom: 1px solid #D8D4D4;*/
+	
+}
+
+.containermenu {
+	min-height: 40px;
+padding-left: 50px;
+
+}
+
+#topmenuicon {
+	display: inline-block;
+	height: 45px;
+	width: 40px;
+	align-content: center;
+}
+
+.topmenuspan {
+	font-size: 12px;
+	align-content: center;
+}
+
+/* 
+  width: 50px;
+  */
+  
+  /* icon size  */ 
+.topmenuicon {
+	display: inline-block;
+	align-content: center;
+	height: 25px;
+	width: 25x;
+}
+
+#header {
+	height: 63px;
+}
+
+#logo {
+	margin-top: 2px;
+	width: 175px;
+	margin-left: 9px;
+}
+
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+.smart-style-1 #header  {
+  color:#000;
+  
+  }
+ 
+.smart-style-3 #header  {
+    background-color: #ffffff;
+    background-image: -moz-linear-gradient(top,#ffffff,#ffffff);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#ffffff),to(#ffffff));
+    background-image: -webkit-linear-gradient(top,#ffffff,#ffffff);
+    background-image: -o-linear-gradient(top,#ffffff,#ffffff);
+    background-image: linear-gradient(to bottom,#ffffff,#ffffff);
+    border-bottom: 1px solid #D8D4D4;
+    border-top: 1px solid #D8D4D4;
+  
+    color:#214e75;
+    
+}
+
+.smart-style-3 .header-dropdown-list>li>.dropdown-toggle, .smart-style-3 .project-context>:first-child, .smart-style-3 .project-selector {
+    color: #214e75;
+    text-shadow:none;
+}
+
+.smart-style-2 #header  {
+    background-color: #ffffff;
+    background-image: -moz-linear-gradient(top,#E6E6E6,#ffffff);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#E6E6E6),to(#ffffff));
+    background-image: -webkit-linear-gradient(top,#E6E6E6,#ffffff);
+    background-image: -o-linear-gradient(top,#E6E6E6,#ffffff);
+    background-image: linear-gradient(to bottom,#E6E6E6,#ffffff);
+    border-bottom: 1px solid #D8D4D4;
+    border-top: 1px solid #D8D4D4;
+    color:#214e75;
+}
+
+.smart-style-0  #header {
+    display: block;
+    height: 54px;
+    margin: 0;
+    padding: 0 13px 0 0;
+    background-color: #ffffff;
+    background-image: -moz-linear-gradient(top,#ffffff,#ffffff);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#ffffff),to(#ffffff));
+    background-image: -webkit-linear-gradient(top,#ffffff,#ffffff);
+    background-image: -o-linear-gradient(top,#ffffff,#ffffff);
+    background-image: linear-gradient(to bottom,#ffffff,#ffffff);
+    background-repeat: repeat-x;
+    position: relative;
+    z-index: 905;
+     border-bottom: 1px solid #D8D4D4;
+    border-top: 1px solid #D8D4D4;
+    color:#000;
+}
